@@ -1,0 +1,10 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "usdcoin": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "ERC20": "0x REPLACE WITH CONTRACT ADDRESS",
+  "chainID": "CUSTOM ETHEREUM SIDECHAIN ID",
+  "ERC20TokenName": "Replace with ERC20 TOKEN NAME",
+  "ERC20TokenSymbol": "Replace with ERC20 Token Ticker",
+  "CoingeckoID": "Optional for Status Price change 24h, find erc20 token id for the coingecko api at coingecko.com",
+  "discordServerID": "Replace with Discord Server ID",
+}
